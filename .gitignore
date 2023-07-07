@@ -1,0 +1,6 @@
+*.stash
+**Makefile**
+*.pro.user
+*.obj
+release/*
+!*.json

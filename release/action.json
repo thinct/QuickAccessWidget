@@ -1,0 +1,23 @@
+{
+    "AcqLoop": {
+    },
+    "AcqPause": {
+    },
+    "CalibCamera": {
+    },
+    "RecentAction": {
+        "AcqLoop": 4,
+        "AcqPause": 3,
+        "CalibCamera": 6,
+        "SavePicture": 3
+    },
+    "SavePicture": {
+        "ImageFmt": {
+            "index": 8,
+            "prefix": "Image2_"
+        },
+        "SearchTag": [
+            "Save"
+        ]
+    }
+}
